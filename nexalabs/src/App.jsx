@@ -10,8 +10,8 @@ export default function App() {
         
         {/* Logo Section */}
         <div className="flex items-left gap-2 font-bold text-xl tracking-wider">
-          <span className="bg-white text-black px-2 py-0.5 rounded font-black text-sm">Li</span>
-          <span className="whitespace-nowrap">Mr. Lee labs</span>
+          <span className="bg-white text-black px-2 py-0.5 rounded font-black text-sm">R</span>
+          <span className="whitespace-nowrap">R</span>
         </div>
 
         {/* Centralized Navigation Links */}
@@ -39,11 +39,11 @@ export default function App() {
           </div>
           
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold tracking-tight leading-tight">
-            Mr. Lee turn big ideas into <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-indigo-300">digital reality.</span>
+            We turn big ideas into <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-indigo-300">digital reality.</span>
           </h1>
           
           <p className="text-gray-400 text-base sm:text-lg max-w-xl">
-            Mr. Lee design beautiful websites, build powerful software, and create digital experiences that help businesses grow.
+            We design beautiful websites, build powerful software, and create digital experiences that help businesses grow.
           </p>
 
           <div className="flex flex-wrap items-center gap-4 pt-4">
@@ -62,7 +62,7 @@ export default function App() {
             </div>
             <div>
               <h4 className="text-sm font-semibold">Where innovative ideas meet existing technology to build the future.</h4>
-              <p className="text-xs text-gray-400 mt-0.5">Mr. Lee build for what comes next.</p>
+              <p className="text-xs text-gray-400 mt-0.5">We build for what comes next.</p>
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@ export default function App() {
               <div className="flex items-center justify-between mb-6">
                 <div className="flex items-center gap-2 text-xs font-medium tracking-wider text-gray-300">
                   <span className="w-5 h-5 rounded-md bg-emerald-500/20 border border-emerald-500/40 flex items-center justify-center text-emerald-400 text-xs font-bold shadow-[0_0_10px_rgba(16,185,129,0.3)]">✳</span>
-                  <span className="font-semibold text-white tracking-normal">Mr. Lee labs</span>
+                  <span className="font-semibold text-white tracking-normal">R</span>
                 </div>
                 <div className="flex gap-1 text-gray-500 tracking-widest font-bold">
                   <span>•</span><span>•</span><span>•</span>
@@ -107,7 +107,7 @@ export default function App() {
 
               {/* Content Text */}
               <div className="text-center space-y-1 mb-8">
-                <h3 className="text-xl sm:text-2xl font-bold tracking-tight text-white">Mr. Lee Built for the future.</h3>
+                <h3 className="text-xl sm:text-2xl font-bold tracking-tight text-white">We Built for the future.</h3>
                 <p className="text-xs text-gray-400 font-normal">Creative thinking. Smart technology.</p>
               </div>
 
@@ -254,7 +254,7 @@ export default function App() {
 
       {/* CALL TO ACTION FOOTER */}
       <section className="max-w-7xl mx-auto px-6 py-24 text-center">
-        <span className="text-xs font-semibold text-purple-400 tracking-wider uppercase">Mr. Lee 🫱🏼‍🫲🏽 Have an idea?</span>
+        <span className="text-xs font-semibold text-purple-400 tracking-wider uppercase">Have an idea?</span>
         <h2 className="text-3xl sm:text-4xl lg:text-6xl font-extrabold mt-3 mb-8">Let's build something <br />remarkable.</h2>
         <button className="bg-white text-black hover:bg-gray-200 font-medium px-8 py-4 rounded-full inline-flex items-center gap-2 transition group shadow-xl text-sm">
           Start a conversation
@@ -266,10 +266,10 @@ export default function App() {
       <footer className="max-w-7xl mx-auto px-6 py-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between text-xs text-gray-500 gap-4">
         <div className="flex items-center gap-2 font-bold text-white text-base">
           <span className="bg-white text-black px-1.5 py-0.5 rounded text-xs font-black">n</span>
-          <span>Mr. Lee.</span>
+          <span>R</span>
         </div>
         <p>Creative minds. Meaningful technology.</p>
-        <p>© 2026 Mr. Lee Digital. All rights reserved.</p>
+        <p>© 2026 Raihana Digital. All rights reserved.</p>
       </footer>
 
     </div>
